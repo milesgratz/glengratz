@@ -29,3 +29,17 @@ nav-menu: true
 	</div>
 </section>
 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Interested in Donating?</h2>
+		</header>
+		<p>Help support Glen in doing what he loves - playing chess!<br /> 
+		BTC: 1FWF9im2ihgHjdc7tEr2AgGZpdn8AmTQqw <br />
+		LTC: LVnzEZSQe5TY2cyMRzZaktm9jYia9ca7NR <br />
+		ETH: 0xBfdc73b861f8cA084C5cF983864cCe233E38a15f <br />
+		<img src="assets/images/crypto.png" alt="" data-position="top center" />		
+		</p>
+	</div>
+</section>	  
