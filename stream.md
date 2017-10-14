@@ -13,11 +13,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<p>
-			<iframe>
-				src="http://player.twitch.tv/?channel=glengratz" 
-				height="720" 
-				width="1280" 
-				frameborder="0" 
+			<iframe
+				src="http://player.twitch.tv/?channel=glengratz"
+				height="720"
+				width="1280"
+				frameborder="0"
 				scrolling="no"
 				allowfullscreen="true">
 			</iframe>
