@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		{% for post in site.posts %}
+			{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+			{% if currentyear != year %}
+				{% unless forloop.first %}</ul>{% endunless %}
+					<h3>{{ currentyear }}</h3>
+					{% capture year %}{{currentyear}}{% endcapture %}
+				{% endif %}
+			<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+			{% if forloop.last %}</ul>{% endif %}
+		{% endfor %}
+	</div>
+</section>
+	
+</div>
+	
+    {% include footer.html %}
+
+</body>
+
+</html>
