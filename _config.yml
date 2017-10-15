@@ -3,8 +3,8 @@ title: Glen Gratz
 subtitle:
 email: nicegg@yahoo.com
 description: Chessmaster // Father // Techie
-baseurl: "/glengratz" # the subpath of your site, e.g. /blog
-url: "https://milesgratz.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://glengratz.com" # the base hostname & protocol for your site
 author: Miles Gratz
 street_address:
 city: Rockford
