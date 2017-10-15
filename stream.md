@@ -36,14 +36,14 @@ nav-menu: true
 				allowfullscreen="true" 
 				scrolling="no" >
 			</iframe>
-		<div>
+		</div>
 		<p>
 		<a href="https://www.twitch.tv/glengratz?tt_content=text_link&tt_medium=live_embed" 
 			style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:14px;">
 			Watch live video from GlenGratz on www.twitch.tv
 		</a>
 		</p>
-	<div>
+	</div>
 <section>
 
 <!-- One -->
