@@ -1,6 +1,7 @@
 # About
 
-Open source version of my father's chess website! 
+Open source version of my father's chess website!
+
 Made with :heart: by [Miles Gratz](https://github.com/milesgratz)
 
 # Credits
