@@ -15,6 +15,7 @@ nav-menu: true
 		<p>
 			<iframe 
 				src="https://player.twitch.tv/?channel=glengratz" 
+				id="image"
 				frameborder="0" 
 				allowfullscreen="true" 
 				scrolling="no" 
