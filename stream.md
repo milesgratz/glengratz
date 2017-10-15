@@ -52,7 +52,9 @@ nav-menu: true
 		<b>BTC</b>: 1FWF9im2ihgHjdc7tEr2AgGZpdn8AmTQqw <br />
 		<b>LTC</b>: LVnzEZSQe5TY2cyMRzZaktm9jYia9ca7NR <br />
 		<b>ETH</b>: 0xBfdc73b861f8cA084C5cF983864cCe233E38a15f <br />
-		<img src="assets/images/crypto.png" alt="" data-position="top center"/>
+		<img src="assets/images/crypto.png" alt="" data-position="top center"/><br />
+		<b>PayPal Gift:</b> nicegg@yahoo.com <br />
+		<img src="assets/images/paypal.png" alt="" data-position="top center"/><br />
 	</p>
 	</div>
 </section>
