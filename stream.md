@@ -11,7 +11,7 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
+	<div class="iframe">
 		<span class="image main">
 			<iframe 
 				src="https://player.twitch.tv/?channel=glengratz" 
