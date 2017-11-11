@@ -49,7 +49,7 @@ nav-menu: true
 	<p>
 		Help support Glen in doing what he loves - playing chess!<br />
 		<br />
-		<b>BCH</b>: 1L3EU56YXyntiuu4J4FAZ7nQM5Ke5DhSm5 <br />
+		<b>BCH</b>: 1MZ6euFXYAXbunhQXeegNkAykoR4d8rE4J <br />
 		<b>LTC</b>: LVnzEZSQe5TY2cyMRzZaktm9jYia9ca7NR <br />
 		<b>BTC</b>: 1FWF9im2ihgHjdc7tEr2AgGZpdn8AmTQqw <br />		
 		<img src="assets/images/crypto.png" alt="" data-position="top center"/><br />
